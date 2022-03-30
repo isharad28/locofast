@@ -1,0 +1,33 @@
+{
+  "files": {
+    "static/js/0.075609d1.chunk.js": "/static/js/0.075609d1.chunk.js",
+    "static/js/0.075609d1.chunk.js.map": "/static/js/0.075609d1.chunk.js.map",
+    "main.css": "/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/static/js/main.5a0f41db.chunk.js",
+    "main.js.map": "/static/js/main.5a0f41db.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f01b707f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f01b707f.js.map",
+    "static/js/3.a6e85fbf.chunk.js": "/static/js/3.a6e85fbf.chunk.js",
+    "static/js/3.a6e85fbf.chunk.js.map": "/static/js/3.a6e85fbf.chunk.js.map",
+    "static/css/4.2eb07e12.chunk.css": "/static/css/4.2eb07e12.chunk.css",
+    "static/js/4.94a84ac1.chunk.js": "/static/js/4.94a84ac1.chunk.js",
+    "static/js/4.94a84ac1.chunk.js.map": "/static/js/4.94a84ac1.chunk.js.map",
+    "static/js/5.20d12664.chunk.js": "/static/js/5.20d12664.chunk.js",
+    "static/js/5.20d12664.chunk.js.map": "/static/js/5.20d12664.chunk.js.map",
+    "static/js/6.c7d7b3a6.chunk.js": "/static/js/6.c7d7b3a6.chunk.js",
+    "static/js/6.c7d7b3a6.chunk.js.map": "/static/js/6.c7d7b3a6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/4.2eb07e12.chunk.css.map": "/static/css/4.2eb07e12.chunk.css.map",
+    "static/css/main.ea1455b2.chunk.css.map": "/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/4.94a84ac1.chunk.js.LICENSE.txt": "/static/js/4.94a84ac1.chunk.js.LICENSE.txt",
+    "static/media/700.css": "/static/media/open-sans-vietnamese-700-normal.122371a2.woff2",
+    "static/media/400.css": "/static/media/raleway-vietnamese-400-normal.8efa7e0a.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f01b707f.js",
+    "static/css/4.2eb07e12.chunk.css",
+    "static/js/4.94a84ac1.chunk.js",
+    "static/css/main.ea1455b2.chunk.css",
+    "static/js/main.5a0f41db.chunk.js"
+  ]
+}
